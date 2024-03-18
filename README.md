@@ -5,6 +5,8 @@ Un juego para practicar operaciones mentales de manera dinámica y divertida. Di
 
 https://smolfalcon.itch.io/robo-core
 
+Desarrollado en Godot
+
 
 ![Afw_gw](https://github.com/SmolFalcon/RoboCore/assets/19425531/fb26299b-7b6f-4749-9838-2ce2acc3af3b)
 # Controles:
