@@ -7,8 +7,8 @@ https://smolfalcon.itch.io/robo-core
 
 Desarrollado en Godot
 
+![RobocoreGameplay](https://github.com/SmolFalcon/RoboCore/assets/19425531/bc0e47a9-849e-4274-bf43-167aef69017a)
 
-![Afw_gw](https://github.com/SmolFalcon/RoboCore/assets/19425531/fb26299b-7b6f-4749-9838-2ce2acc3af3b)
 # Controles:
 Movimiento: Flechas direccionales izquierda y derecha
 
